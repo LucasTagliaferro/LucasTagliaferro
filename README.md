@@ -1,16 +1,12 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Foco+em+Python+%26+Desenvolvimento+WEB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+%F0%9F%91%8B;" alt="Typing SVG" /></a>
 </div>
 
 <br>
 
-Olá, meu nome é Lucas 👋.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me capacitando no desenvolvimento de software em python e desenvolvimento WEB.
 
 <br>
-
-<p>
-  Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me capacitando no desenvolvimento de software em python e desenvolvimento WEB.
-</p>
 
 <br>
 
