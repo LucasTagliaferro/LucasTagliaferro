@@ -6,7 +6,7 @@
 
 <br>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me capacitando no desenvolvimento de software em python e desenvolvimento WEB.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me capacitando no desenvolvimento em python (back-end) e desenvolvimento para WEB.
 
 <br>
 
