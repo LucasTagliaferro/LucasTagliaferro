@@ -33,7 +33,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/LucasTagliaferro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTagliaferro&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastagliaferro&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
