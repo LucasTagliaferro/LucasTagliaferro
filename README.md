@@ -24,6 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
 
 <br>
