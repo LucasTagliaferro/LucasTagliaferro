@@ -35,3 +35,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTagliaferro&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas" />
   </a>
 </div>
+
+<br>
+<hr>
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🏥 **[Projeto TISS](https://github.com/LucasTagliaferro/projeto_TISS)** | Solução focada no processamento, manipulação e leitura de dados de arquivos XML dentro do padrão da saúde suplementar (TISS). | `Python` |
+| ⚙️ **[Automex C#](https://github.com/LucasTagliaferro/Automex_Csharp)** | Evolução do sistema de automação para exportação e integração de guias médicas, reestruturado e otimizado em C#. | `C#` `.NET` |
+
+<br>
