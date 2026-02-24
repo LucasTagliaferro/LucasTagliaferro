@@ -10,22 +10,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
 
 <br>
 
-<br>
-
-<!--### 🎓 Capacitação
-- *Uniasselvi* - Análise e Desenvolvimento de Sistemas
-  - *(Ano de Início 2023 - Ano de Conclusão 2026)*
-- *Danki Code* - Front end completo
-- *DIO.* - Bootcamp Python Santander
-<br>-->
-
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tagliaferro-2a3146182/)
 
 <br>
 
 ### 💻 Habilidades
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,6 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/lucastagliaferro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastagliaferro&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/LucasTagliaferro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTagliaferro&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas" />
+  </a>
 </div>
