@@ -38,13 +38,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou me cap
 </div>
 
 <br>
-<hr>
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| 🏥 **[Projeto TISS](https://github.com/LucasTagliaferro/projeto_TISS)** | Solução focada na exportação de arquivos XML dentro do padrão da saúde suplementar (TISS). | `Python` `Django` `BootStrap`   |
-| ⚙️ **[Automex C#](https://github.com/LucasTagliaferro/Automex_Csharp)** | Sistema de automação de arquivos no padrão TISS, com base em regras de negocio. | `C#` `.NET` `Angular` |
-
-<br>
